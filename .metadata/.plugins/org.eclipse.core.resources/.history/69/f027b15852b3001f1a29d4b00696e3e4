@@ -1,0 +1,7 @@
+package zoo;
+
+public class Gato  extends Animal{
+	public void brincar() {
+		System.out.println("O gato está brincando");
+	}
+}

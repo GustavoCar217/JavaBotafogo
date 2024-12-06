@@ -1,0 +1,13 @@
+package zoo;
+
+public class Animal {
+	private String cor;
+	private String raca;
+	private double peso;
+	private String nome;
+
+		
+	public void brincar() {
+		System.out.println("Brincando");
+	}
+}

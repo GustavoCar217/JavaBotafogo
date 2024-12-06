@@ -1,0 +1,12 @@
+package zoo;
+
+public class Jacare extends Animal{
+	
+	public void brincar() {
+		System.out.println("o jacaré esta brincando");
+	}
+	public void comer() {
+		System.out.println("o jacaré esta comendo");
+	}
+
+}

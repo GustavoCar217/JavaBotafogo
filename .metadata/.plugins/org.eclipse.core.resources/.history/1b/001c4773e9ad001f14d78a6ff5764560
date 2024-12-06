@@ -1,0 +1,15 @@
+package calculadora;
+
+public class App {
+
+	public static void main(String[] args) {
+		Calculadora calculadora = new Calculadora();
+		
+
+		int m = calculadora.multiplicar(7, 9);
+		System.out.println("A multiplicação é: " + m);
+		int s = calculadora.somar(6, 4);
+		System.out.println("A soma é: " + s);
+	}
+
+}
