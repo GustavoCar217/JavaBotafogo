@@ -3,4 +3,5 @@
     <fullyQualifiedTypeName name="zoo.Animal"/>
     <fullyQualifiedTypeName name="zoo.Cachorro"/>
     <fullyQualifiedTypeName name="zoo.Gato"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
 </qualifiedTypeNameHistroy>
